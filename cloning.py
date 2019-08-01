@@ -1,9 +1,6 @@
 import requests, json, sys, hashlib, mechanize
 from bs4 import BeautifulSoup
 from os import system
-banner = """
-ᴅᴇᴠᴇʟᴏᴘᴇᴅ ʙʏ 6ɪᴄᴋ (ᴀᴘɪꜱɪᴛ ꜱʀɪʀᴀʙᴀʏ)
-"""
 system("clear")
 print ("\033[96m" + banner)
 class YC:
